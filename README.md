@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NiravYogi Studying at Seneca College
+- 👋 Hi, I’m @iamniravkumarpatel Studying at Seneca College
 - 👀 I’m interested in C++, C, Python, SQL and JavaScript (Basically I want to become a developer in the next 2 years)
 - 🌱 I’m currently learning Computer Programming
 - 💞️ I’m looking to collaborate on C++, Python, any projects on which I can help, feel free to reach out to me. 
